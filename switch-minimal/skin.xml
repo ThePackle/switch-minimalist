@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Switch Minimalist" author="ThePackle" type="switch">
+    <background name="Switch" image="background.png" />
+    <button name="b" image="a.png" x="265" y="74" width="40" height="40" />
+    <button name="zr" image="r.png" x="112" y="5" width="83" height="13" />
+    <button name="zl" image="l.png" x="6" y="5" width="83" height="13" />
+    <button name="r" image="r.png" x="112" y="23" width="83" height="13" />
+    <button name="l" image="l.png" x="6" y="23" width="83" height="13" />
+    <button name="y" image="x.png" x="230" y="39" width="40" height="40" />
+    <button name="a" image="b.png" x="300" y="39" width="40" height="40" />
+    <button name="x" image="y.png" x="265" y="3" width="40" height="40" />
+    <button name="+" image="start.png" x="90" y="67" width="20" height="20" />
+
+    <!-- Doesn't work lol
+    <button name="l3" image="l.png" x="22" y="50" width="50" height="50" />
+    <button name="r3" image="r.png" x="128" y="52" width="50" height="50" />-->
+    <stick xname="lstick_x" yname="lstick_y" image="lstick_xlstick_y.png" x="20" y="50" width="50" height="50" xrange="20" yrange="20" />
+    <stick xname="rstick_x" yname="rstick_y" image="cstick_xcstick_y.png" x="128" y="50" width="50" height="50" xrange="20" yrange="20" />
+</skin>
